@@ -1,0 +1,46 @@
+# Core Deep Learning Framework
+tensorflow==2.13.1
+keras==2.13.1
+
+# Scientific Computing
+numpy==1.24.3
+scipy==1.11.4
+
+# Data Visualization
+matplotlib==3.8.4
+
+# Image Processing
+pillow==10.2.0
+
+# Data Storage
+h5py==3.10.0
+
+# Jupyter Environment
+jupyterlab==4.2.2
+ipykernel==6.29.5
+ipywidgets==8.1.3
+notebook==7.0.8
+
+# TensorFlow Dependencies (automatically installed with tensorflow)
+# absl-py>=2.3.1
+# astunparse>=1.6.3
+# flatbuffers>=25.2.10
+# gast>=0.4.0
+# google-pasta>=0.2.0
+# grpcio>=1.74.0
+# libclang>=18.1.1
+# opt-einsum>=3.4.0
+# protobuf>=4.25.8
+# tensorboard>=2.13.0
+# tensorflow-estimator>=2.13.0
+# termcolor>=3.1.0
+# typing-extensions>=4.5.0
+# wrapt>=1.17.3
+
+# Optional: For better performance on Apple Silicon
+# tensorflow-metal  # Uncomment for M1/M2/M3 Macs (install separately)
+
+# Development and Utilities
+setuptools>=80.9.0
+wheel>=0.45.1
+pip>=24.2
