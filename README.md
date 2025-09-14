@@ -68,7 +68,7 @@ Gen_AI_Model/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Gen_AI_Model.git
+git clone https://github.com/Mehardeep79/Gen-AI-Model-MNIST.git
 cd Gen_AI_Model
 ```
 
