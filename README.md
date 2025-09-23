@@ -1,10 +1,6 @@
 # 🎨 Gen AI Handwritten Digit Generator Using MNIST GAN
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-orange.svg)](https://tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-2.13+-red.svg)](https://keras.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
 
 A comprehensive implementation of **Generative Adversarial Networks (GANs)** for generating handwritten digits using the MNIST dataset. This project demonstrates the power of adversarial training where two neural networks compete to create realistic digit images.
 
